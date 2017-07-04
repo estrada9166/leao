@@ -1,0 +1,18 @@
+{
+  "name": "leao",
+  "version": "1.0.0",
+  "description": "virtual dom",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "virtual",
+    "dom"
+  ],
+  "author": "Alejandro Estrada",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
