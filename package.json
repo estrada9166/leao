@@ -1,10 +1,14 @@
 {
   "name": "leao",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "virtual dom",
   "main": "index.js",
   "scripts": {
     "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estrada9166/leao.git"
   },
   "keywords": [
     "virtual",
@@ -12,6 +16,10 @@
   ],
   "author": "Alejandro Estrada",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estrada9166/leao/issues"
+  },
+  "homepage": "https://github.com/estrada9166/leao#readme",
   "devDependencies": {
     "jest": "^20.0.4"
   }
